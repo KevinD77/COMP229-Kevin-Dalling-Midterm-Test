@@ -1,3 +1,11 @@
+/* 
+   File: books.js
+   Author: Kevin Dalling
+   ID#: 301247589
+   Date: March 4, 2023
+   Web App Name:  My Favourite Books
+*/
+
 // modules required for routing
 let express = require('express');
 let router = express.Router();

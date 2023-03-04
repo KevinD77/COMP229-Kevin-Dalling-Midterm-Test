@@ -1,4 +1,12 @@
-// moddules for node and express
+/* 
+   File: app.js
+   Author: Kevin Dalling
+   ID#: 301247589
+   Date: March 4, 2023
+   Web App Name:  My Favourite Books
+*/
+
+// modules for node and express
 let createError = require('http-errors');
 let express = require('express');
 let path = require('path');

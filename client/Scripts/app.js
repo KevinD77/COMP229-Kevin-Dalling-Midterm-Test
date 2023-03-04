@@ -1,3 +1,12 @@
+/* 
+   File: app.js
+   Author: Kevin Dalling
+   ID#: 301247589
+   Date: March 4, 2023
+   Web App Name:  My Favourite Books
+*/
+
+
 /* custom JS goes here */
 
 /* pagination code from http://www.bootply.com/lxa0FF9yhw */

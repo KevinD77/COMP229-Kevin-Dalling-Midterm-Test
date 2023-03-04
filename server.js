@@ -1,3 +1,11 @@
+/* 
+   File: server.js
+   Author: Kevin Dalling
+   ID#: 301247589
+   Date: March 4, 2023
+   Web App Name:  My Favourite Books
+*/
+
 let app = require('./server/config/app');
 let debug = require('debug')('comp308-w2019-midterm:server');
 let http = require('http');
